@@ -1,0 +1,114 @@
+body { 
+  margin: 0;
+  
+}
+
+#hero-Bronx { 
+  text-align: center; 
+  background-image: url("Images-2/Oval.jpg");
+  background-size: cover;
+  padding: 40px 5px 15px 5px ;
+  height: 450px;
+  font-family: 'Piazzolla', sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: x-large;
+  color: #A52A2A;
+  
+}
+
+.highlight { 
+  border-bottom: 3px solid blue;
+}
+
+.highlight:hover { 
+  font-size: xx-large;
+  color: #3D0C02;
+}
+ 
+.The-Bronx { 
+  text-decoration: none;
+  font-size: x-large;
+  color: #A52A2A;
+}
+
+.message { 
+  background-color: #EFDECD;
+  width: 600px;
+  margin: 40px auto 10px auto;
+  padding: 10px 5px 10px 5px;
+}
+
+#activities-section {
+  text-align: center;
+  font-family: 'Work + Sans', sans-serif;
+  background-color: #EFDECD;
+  height: 450px;
+  padding: 70px 0 0 0;
+  
+}
+
+.must-do { 
+  margin-top: 0;
+}
+
+.link-zoo { 
+  text-decoration: none;
+  color: black;
+}
+
+.Stadium-link {
+  text-decoration: none;
+  color: black;
+}
+
+.Garden {
+  text-decoration: none;
+  color:black;
+}
+
+.customize { 
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 45px 0 0 0;
+}
+
+.photos { 
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+
+#third-section { 
+  background-color: #E3DAC9;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.guide-container { 
+  background-color: #DAA06D;
+  height: 300px;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 10px solid #AF6E4D;
+}
+
+.Mau { 
+  width: 150px;
+  height: 170px;
+  border: 5px solid #E97451;
+  border-radius: 10px;
+}
+
+.info { 
+  width: 180px;
+}
+
+
